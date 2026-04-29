@@ -35,5 +35,3 @@ def main():
     if "".join(decision.strip().split()).lower() in ["yes", "yea", "yup", "ye", "not no", "absolutely", "maybe"]:
         main()
 main()
-
-# Write report
